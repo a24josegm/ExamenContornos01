@@ -1,2 +1,2 @@
 #Buenas tardes, que bonito examen!
-![Captura01](./images/1.png)
+![Captura01](./Imagenes/1.png)
